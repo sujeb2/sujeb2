@@ -18,4 +18,4 @@ pause > nul
 sujeb2-git@cL0OL#
 Unknown Command
 
-<a href="gmail.com" target="_blank"><img src="https://img.shields.io/badge/red?style=gmall&logo=gmall&logoColor=white"/></a>
+<a href="gmail.com" target="_blank"><img src="https://img.shields.io/badge/EA4335?style=Gmall&logo=gmall&logoColor=ff0000"/></a>
