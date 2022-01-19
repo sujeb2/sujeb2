@@ -1,4 +1,3 @@
-### Hi There!
 
 sujeb2-git@cLO0L#whoami
 
@@ -17,3 +16,4 @@ echo.
 pause > nul
 
 sujeb2-git@cL0OL#
+Unknown Command
