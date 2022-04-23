@@ -9,7 +9,7 @@ Birth - 01 . 15
 
 Languages - English, Korean
 
-Program Languages - BDScript, Batch, Visual Basic
+Program Languages - BDScript, Batch, Visual Basic, Skript
 
 ===================================================
 echo.
