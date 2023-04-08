@@ -1,5 +1,5 @@
 # 👋 Hi
-I'm middle school student who wants to be a professional programmer
+<center>I'm middle school student who wants to be a professional programmer</center>
 
 ## 💠 I'm able to...
 <img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/java-239120?style=flat-square&logo=java&logoColor=white"/>
