@@ -2,7 +2,7 @@
 <center>I'm middle school student who wants to be a professional programmer</center>
 
 ## ✈️ Currently In
-- I'm currently in songro studio_ , Aero
+- I'm currently in DONT PAN!C STUDIOS , Aero
 
 ## 💠 I'm able to...
 <img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/python-239120?style=flat-square&logo=Python&logoColor=white"/>
