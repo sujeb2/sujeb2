@@ -1,4 +1,4 @@
 <p align="center">
-  <h2>👋 Hi and, Welcome!</h2>
-  <h3>- Currently this readme page is working on it so see down there to look my current projects...</h3>
+  👋 Hi and, Welcome!
+   - Currently this page is working on it so look down there to see my current projects!
 </p>
