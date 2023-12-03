@@ -1,4 +1,4 @@
 <p align="center">
-  👋 Hi and, Welcome! <br/>
-   - I am Middle School student that wants to be a professional programmer!
+  <h1>👋 Hi and, Welcome!<h1> <br/>
+  <h2>I am Middle School student that wants to be a professional programmer!</h2>
 </p>
