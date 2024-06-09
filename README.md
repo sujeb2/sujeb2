@@ -7,3 +7,5 @@ songro@sngropc:~$ whoami
 + [things-that-i-love/INFO]: I LOVE COOL HARDWARES!
 = [dont-worry/INFO]: meow :3:3:3:3:3
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujeb2)](https://github.com/anuraghazra/github-readme-stats)
